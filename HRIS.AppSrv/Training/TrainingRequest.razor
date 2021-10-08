@@ -1,0 +1,49 @@
+﻿@page "/Training/TrainingRequest"
+
+@using HRIS.AppSrv.Models
+
+<h3>Training Request</h3>
+
+
+
+<EditForm Model="@emp"  OnValidSubmit="@Create">
+    <div class="form-field">
+        
+        <div class="container-fluid" style="margin:5px;padding:0px;border:double;background-color:aliceblue">
+
+            <div class="row" style="margin:0px;padding:0px;">
+
+                <div class="col-xs-12 col-sm-8 col-md-6" style="width:100%;margin:0px;padding:0px">
+
+                    <div class="row" style="width:100%;margin:0px;padding:0px">
+                        <div class="col-xs-12 col-md-4" style="font-weight:bold">
+                            <InputText @bind-Value="emp.FirstName"></InputText>
+                        </div>
+                        <div class="col-xs-12 col-md-4" style="font-weight:bold">
+
+                            <InputText @bind-Value="emp.PreferredName"></InputText>
+                        </div>
+                        <div class="col-xs-12 col-md-4" style="font-weight:bold">
+
+                            <InputText @bind-Value="emp.LastName"></InputText>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</EditForm>
+
+
+
+@code {
+
+    EmployeeDTO emp = new();
+
+    public async Task Create()
+    {
+
+    }
+
+}

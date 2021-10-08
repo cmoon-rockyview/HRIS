@@ -1,0 +1,17 @@
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\bin\Debug\net5.0\HRIS.Business.deps.json
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\bin\Debug\net5.0\HRIS.Business.dll
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\bin\Debug\net5.0\ref\HRIS.Business.dll
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\bin\Debug\net5.0\HRIS.Business.pdb
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\HRIS.Business.csprojAssemblyReference.cache
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\HRIS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\HRIS.Business.AssemblyInfoInputs.cache
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\HRIS.Business.AssemblyInfo.cs
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\HRIS.Business.csproj.CoreCompileInputs.cache
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\HRIS.Business.dll
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\ref\HRIS.Business.dll
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\HRIS.Business.pdb
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\bin\Debug\net5.0\HRIS.Data.dll
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\bin\Debug\net5.0\HRIS.Domain.dll
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\bin\Debug\net5.0\HRIS.Data.pdb
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\bin\Debug\net5.0\HRIS.Domain.pdb
+C:\Devs01\HRIS\HRIS.Project\HRIS.Business\obj\Debug\net5.0\HRIS.Business.csproj.CopyComplete

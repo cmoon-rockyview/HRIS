@@ -1,0 +1,6 @@
+C:\Devs01\HRIS\HRIS.Project\HRIS.Database\bin\Debug\HRIS.Database.dacpac
+C:\Devs01\HRIS\HRIS.Project\HRIS.Database\bin\Debug\HRIS.Database.dll
+C:\Devs01\HRIS\HRIS.Project\HRIS.Database\bin\Debug\HRIS.Database.pdb
+C:\Devs01\HRIS\HRIS.Project\HRIS.Database\obj\Debug\HRIS.Database.sqlprojAssemblyReference.cache
+C:\Devs01\HRIS\HRIS.Project\HRIS.Database\obj\Debug\HRIS.Database.dll
+C:\Devs01\HRIS\HRIS.Project\HRIS.Database\obj\Debug\HRIS.Database.pdb
