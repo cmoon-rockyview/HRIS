@@ -1,22 +1,12 @@
 ﻿
-@page "/EmployeeList"
-
-@using HRIS.Data
-@using HRIS.Data.Repository
-@using HRIS.AppSrv.Models
-@using AutoMapper 
-
-
-@inject IUnitOfWork _unit
-@inject IMapper Mapper 
-
+@page "/RV/EmployeeList"
+@inherits HRIS.AppSrv.RV.EmployeeListBase
 
 <h3> Employees </h3>
 
-@if (employees is null)
+@if (_employees is null)
 {
-    <p><em>Loading...</em></p>
-}
+    <p><em>Loading...</em></p>}
 else
 {    <table class="table table-striped">
         <thead>
@@ -27,7 +17,7 @@ else
             </tr>
         </thead>
         <tbody>
-            <Virtualize Items="employees" Context="employee">
+            <Virtualize Items="_employees" Context="employee">
                 <tr>
                     <td>@employee.EmployeeId</td>
                     <td>@employee.FirstName</td>
@@ -42,16 +32,3 @@ else
     </table>
 }
 
-
-@code {
-
-    private List<EmployeeDTO> employees;
-
-    protected override async Task OnInitializedAsync()
-    {
-        var emps = await _unit.IEmployeeRepoIns.FindAsync(s=>!s.EmployeeId.Contains("No EmpId"));
-
-        employees = Mapper.Map<List<EmployeeDTO>>(emps);
-    }
-
-}

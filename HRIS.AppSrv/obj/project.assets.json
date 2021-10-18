@@ -2399,7 +2399,7 @@
       ]
     },
     "Newtonsoft.Json/10.0.1": {
-      "sha512": "ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
+      "sha512": "MOUhQfeI43upq9QiEv+7YYTDQPtEZEj9xB50MgplO1XF/aumP0f+TCYIHpZEmfsiahJJaXt/gdRFYLFEoF2VyQ==",
       "type": "package",
       "path": "newtonsoft.json/10.0.1",
       "hasTools": true,
@@ -5937,21 +5937,21 @@
     "C:\\Users\\ChrisM\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.AppSrv\\HRIS.AppSrv.csproj",
+      "projectUniqueName": "C:\\DevHome\\HRIS\\HRIS.AppSrv\\HRIS.AppSrv.csproj",
       "projectName": "HRIS.AppSrv",
-      "projectPath": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.AppSrv\\HRIS.AppSrv.csproj",
+      "projectPath": "C:\\DevHome\\HRIS\\HRIS.AppSrv\\HRIS.AppSrv.csproj",
       "packagesPath": "C:\\Users\\ChrisM\\.nuget\\packages\\",
-      "outputPath": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.AppSrv\\obj\\",
+      "outputPath": "C:\\DevHome\\HRIS\\HRIS.AppSrv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\ChrisM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5970,8 +5970,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Data\\HRIS.Data.csproj": {
-              "projectPath": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Data\\HRIS.Data.csproj"
+            "C:\\DevHome\\HRIS\\HRIS.Data\\HRIS.Data.csproj": {
+              "projectPath": "C:\\DevHome\\HRIS\\HRIS.Data\\HRIS.Data.csproj"
             }
           }
         }
@@ -6013,7 +6013,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

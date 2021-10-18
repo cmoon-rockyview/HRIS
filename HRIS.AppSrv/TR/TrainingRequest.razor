@@ -1,0 +1,24 @@
+﻿@page "/TR/TrainingRequest"
+
+@using HRIS.AppSrv.Models
+
+<h3>Training Request</h3>
+
+
+
+<EditForm Model="@emp"  OnValidSubmit="@Create">
+
+</EditForm>
+
+
+
+@code {
+
+    EmployeeDTO emp = new();
+
+    public async Task Create()
+    {
+
+    }
+
+}

@@ -4,3 +4,9 @@ C:\Devs01\HRIS\HRIS.Project\HRIS.Database\bin\Debug\HRIS.Database.pdb
 C:\Devs01\HRIS\HRIS.Project\HRIS.Database\obj\Debug\HRIS.Database.sqlprojAssemblyReference.cache
 C:\Devs01\HRIS\HRIS.Project\HRIS.Database\obj\Debug\HRIS.Database.dll
 C:\Devs01\HRIS\HRIS.Project\HRIS.Database\obj\Debug\HRIS.Database.pdb
+C:\DevHome\HRIS\HRIS.Database\bin\Debug\HRIS.Database.dacpac
+C:\DevHome\HRIS\HRIS.Database\bin\Debug\HRIS.Database.dll
+C:\DevHome\HRIS\HRIS.Database\bin\Debug\HRIS.Database.pdb
+C:\DevHome\HRIS\HRIS.Database\obj\Debug\HRIS.Database.sqlproj.AssemblyReference.cache
+C:\DevHome\HRIS\HRIS.Database\obj\Debug\HRIS.Database.dll
+C:\DevHome\HRIS\HRIS.Database\obj\Debug\HRIS.Database.pdb

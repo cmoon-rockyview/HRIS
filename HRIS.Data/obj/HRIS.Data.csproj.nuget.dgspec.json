@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Data\\HRIS.Data.csproj": {}
+    "C:\\DevHome\\HRIS\\HRIS.Data\\HRIS.Data.csproj": {}
   },
   "projects": {
-    "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Data\\HRIS.Data.csproj": {
+    "C:\\DevHome\\HRIS\\HRIS.Data\\HRIS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Data\\HRIS.Data.csproj",
+        "projectUniqueName": "C:\\DevHome\\HRIS\\HRIS.Data\\HRIS.Data.csproj",
         "projectName": "HRIS.Data",
-        "projectPath": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Data\\HRIS.Data.csproj",
+        "projectPath": "C:\\DevHome\\HRIS\\HRIS.Data\\HRIS.Data.csproj",
         "packagesPath": "C:\\Users\\ChrisM\\.nuget\\packages\\",
-        "outputPath": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Data\\obj\\",
+        "outputPath": "C:\\DevHome\\HRIS\\HRIS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\ChrisM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -35,8 +35,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Domain\\HRIS.Domain.csproj": {
-                "projectPath": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Domain\\HRIS.Domain.csproj"
+              "C:\\DevHome\\HRIS\\HRIS.Domain\\HRIS.Domain.csproj": {
+                "projectPath": "C:\\DevHome\\HRIS\\HRIS.Domain\\HRIS.Domain.csproj"
               }
             }
           }
@@ -95,23 +95,23 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Domain\\HRIS.Domain.csproj": {
+    "C:\\DevHome\\HRIS\\HRIS.Domain\\HRIS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Domain\\HRIS.Domain.csproj",
+        "projectUniqueName": "C:\\DevHome\\HRIS\\HRIS.Domain\\HRIS.Domain.csproj",
         "projectName": "HRIS.Domain",
-        "projectPath": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Domain\\HRIS.Domain.csproj",
+        "projectPath": "C:\\DevHome\\HRIS\\HRIS.Domain\\HRIS.Domain.csproj",
         "packagesPath": "C:\\Users\\ChrisM\\.nuget\\packages\\",
-        "outputPath": "C:\\Devs01\\HRIS\\HRIS.Project\\HRIS.Domain\\obj\\",
+        "outputPath": "C:\\DevHome\\HRIS\\HRIS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\ChrisM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
